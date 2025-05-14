@@ -5,7 +5,7 @@ Welcome to the **Smart AI Resume Analyzer** repository! We're thrilled to have y
 <div align="center">
   
 [![Community](https://img.shields.io/badge/Community-Welcoming-brightgreen?style=for-the-badge)](https://discord.com/invite/dy4gAhng)  
-[![Join the discussion](https://img.shields.io/badge/Join-Discussion-blue?style=for-the-badge&logo=Discussions)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions)
+[![Join the discussion](https://img.shields.io/badge/Join-Discussion-blue?style=for-the-badge&logo=Discussions)](https://github.com/Shubham-Aggarwal-1306/Smart-AI-Resume-Analyzer/discussions)
 </div>
 
 
@@ -36,7 +36,7 @@ We absolutely do not tolerate:
 
 Our community leaders ensure a positive environment. Should you witness or experience any unacceptable behavior, please reach out to:
 
-[**Hunterdii**](mailto:hunterdii9879@gmail.com)
+[**Shubham-Aggarwal-1306**](mailto:Shubham-Aggarwal-13069879@gmail.com)
 
 All reports are treated with the highest confidentiality and attention.
 
@@ -104,7 +104,7 @@ We encourage open-source contributions! To keep things smooth, follow these guid
 
 ![Report Badge](https://img.shields.io/badge/Report%20Issues-Confidential-red?style=flat-square)  
 
-If you experience or witness any violations of this Code of Conduct, please report them immediately to [**Hunterdii**](mailto:hunterdii9879@gmail.com). All reports will be handled **confidentially** and with utmost care.
+If you experience or witness any violations of this Code of Conduct, please report them immediately to [**Shubham-Aggarwal-1306**](mailto:Shubham-Aggarwal-13069879@gmail.com). All reports will be handled **confidentially** and with utmost care.
 
 
 

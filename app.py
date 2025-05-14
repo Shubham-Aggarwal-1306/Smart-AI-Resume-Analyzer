@@ -1014,20 +1014,20 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/Hunterdii'}" 
-                     alt="Het Patel" 
+                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/Shubham-Aggarwal-1306'}" 
+                     alt="Shubham Aggarwal" 
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Hunterdii';">
-                <h2 class="profile-name">Het Patel (Hunterdii)</h2>
+                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/Shubham-Aggarwal-1306';">
+                <h2 class="profile-name">Shubham Aggarwal (Shubham-Aggarwal-1306)</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
-                    <a href="https://github.com/Hunterdii" class="social-link" target="_blank">
+                    <a href="https://github.com/Shubham-Aggarwal-1306" class="social-link" target="_blank">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" class="social-link" target="_blank">
+                    <a href="https://www.linkedin.com/in/shubham-aggarwal-654ab521a/" class="social-link" target="_blank">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a href="mailto:hunterdii9879@gmail.com" class="social-link" target="_blank">
+                    <a href="mailto:Shubham-Aggarwal-13069879@gmail.com" class="social-link" target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </div>
